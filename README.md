@@ -2,7 +2,7 @@
 This program allow student to view booklist and search for the specific book. The librarian access also provide, which can be used for add, modify, and delete book. Librarian also help to issue the book.
 Contribution Work:
 GUI : Erwin
-Student Portal : Juan
+Student Portal : Juan - (helping with issue book program)
 Librarian Portal : Raisa 
 (Note, This is not fixed, everyone can help each other to understand the concept of the program.)
 
