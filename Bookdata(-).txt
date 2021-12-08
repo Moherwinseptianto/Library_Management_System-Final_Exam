@@ -1,0 +1,240 @@
+CALCULUS:
+				**********1. **********
+
+                Book's Name : CALCULUS IN NUTSHELL
+
+                Book's Author Name : Juan
+
+                Book's ID : 1001
+
+                Book's Publication : Gramedia
+
+                Book's Price : 14
+
+                Book's Quantity : 88
+
+                **********2. **********
+
+                Book's Name : CALCULUS FOR 6TH CLASS
+
+                Book's Author Name : Raisa
+
+                Book's ID : 1003
+
+                Book's Publication : Gramedia\
+
+                Book's Price : 76
+
+                Book's Quantity : 67
+
+                **********3. **********
+
+                Book's Name : CALCUULUS FOR BEGINNER
+
+                Book's Author Name : Stephen
+
+                Book's ID : 1004
+
+                Book's Publication : Gramedia
+
+                Book's Price : 67
+
+                Book's Quantity : 88
+
+                **********4. **********
+
+                Book's Name : CALCULUS FOR DUMMIES
+
+                Book's Author Name : Jikala
+
+                Book's ID : 1299
+
+                Book's Publication : Erlangga
+
+                Book's Price : 82
+
+                Book's Quantity : 90
+GEOGRAPHY:
+                **********1. **********
+
+                Book's Name : GEOGRAPHY IN NUTSHELL
+
+                Book's Author Name : Jaya
+
+                Book's ID : 1005
+
+                Book's Publication : Gramedia
+
+                Book's Price : 87
+
+                Book's Quantity : 43
+
+                **********2. **********
+
+                Book's Name : GEOPGRAPHY IN WORLD
+
+                Book's Author Name : Hakajaya
+
+                Book's ID : 1007
+
+                Book's Publication : Gramedia
+
+                Book's Price : 81
+
+                Book's Quantity : 4
+BIOLOGY
+				**********1. **********
+
+                Book's Name : BIOLOGY IS FUN 2ND EDITION
+
+                Book's Author Name : Gunta
+
+                Book's ID : 1090
+
+                Book's Publication : Erlangga
+
+                Book's Price : 27
+
+                Book's Quantity : 90
+
+                **********2. **********
+
+                Book's Name : BIOLOGY : TECH AND NATURE
+
+                Book's Author Name : ELEX Media
+
+                Book's ID : 1100
+
+                Book's Publication : ELEX Media
+
+                Book's Price : 99
+
+                Book's Quantity : 20
+CHEMISTRY:
+				**********1. **********
+
+                Book's Name : CHEMISTRY IS FUN
+
+                Book's Author Name : Jaya
+
+                Book's ID : 1011
+
+                Book's Publication : Gramedia
+
+                Book's Price : 23
+
+                Book's Quantity : 75
+STATISTIC:
+
+                **********1. **********
+
+                Book's Name : STATISTIC FOR BEGINNER
+
+                Book's Author Name : Joko
+
+                Book's ID : 1119
+
+                Book's Publication : ELEX Media
+
+                Book's Price : 22
+
+                Book's Quantity : 11
+
+                **********2. **********
+
+                Book's Name : STATISTIS ADVANCE 2ND
+
+                Book's Author Name : Albert
+
+                Book's ID : 1109
+
+                Book's Publication : Geeks
+
+                Book's Price : 11
+
+                Book's Quantity : 19
+ACCOUNTING:
+				**********1. **********
+
+                Book's Name : ACCOUNTING FOR BEGINNER
+
+                Book's Author Name : Dhania
+
+                Book's ID : 1022
+
+                Book's Publication : Erlangga
+
+                Book's Price : 16
+
+                Book's Quantity : 77
+
+                **********2. **********
+
+                Book's Name : ACCOUNTING: HOW TO GET NEW ROLE
+
+                Book's Author Name : Citra
+
+                Book's ID : 1191
+
+                Book's Publication : Erlangga
+
+                Book's Price : 90
+
+                Book's Quantity : 11
+DICTIONARY:
+				**********1. **********
+
+                Book's Name : INDONESIA ENGLISH DICTIONARY
+
+                Book's Author Name : Jaka
+
+                Book's ID : 1070
+
+                Book's Publication : Gramedia
+
+                Book's Price : 10
+
+                Book's Quantity : 99
+
+                **********2. **********
+
+                Book's Name : SPAIN - FRENCH BEGINNER
+
+                Book's Author Name : Jaskel
+
+                Book's ID : 1900
+
+                Book's Publication : CAMBRIDGE
+
+                Book's Price : 50
+
+                Book's Quantity : 90
+PROGRAMMING:				
+				**********1. **********
+
+                Book's Name : C++ IS EASIER
+
+                Book's Author Name : Aurel
+
+                Book's ID : 1072
+
+                Book's Publication : 1045
+
+                Book's Price : 87
+
+                Book's Quantity : 22
+
+                **********2. **********
+
+                Book's Name : R LANGUAGE : TIPS AND TRICK
+
+                Book's Author Name : Jilika
+
+                Book's ID : 1922
+
+                Book's Publication : Media Lokal
+
+                Book's Price : 19
+
+                Book's Quantity : 0
+				
