@@ -12,3 +12,4 @@ The login access is with GUI, but the main window is with cmd.
   - The student login will require your username and password that you make. The default is us : LastProject and pass : 081221. The student login cannot be delete or remake or       change after registered.
   - The librarian login just have one username and password and cannot be change. (Us : LIBRARIAN; Pass: LIBRARIAN)
  
+https://drive.google.com/drive/folders/10MKDstlXzc7uegiqlmT4B8gds1sNY5Nd
