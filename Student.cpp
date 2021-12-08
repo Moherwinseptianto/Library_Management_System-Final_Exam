@@ -21,11 +21,11 @@ class LibraryS {
             p=0;
         }
 
-        void show();
+        void show(); //for listing detail of book -> booklist
         void open(); // To open the home page
-        void booklist();
-        void search();
-        int branch();
+        void booklist(); // for open booklist
+        void search(); // searching for book
+        int branch(); // for open category
 };
 
 // TO OPEN THE HOME PAGE OF STUDENT
@@ -115,7 +115,7 @@ void LibraryS::search(){
     //This program is searching for the book that we want to show
     //Using searching and compare with recursion funtion
     cout << "\n\t\tPlease Choose One Option";
-    cout << "\n\n\t 1.Search By Book Name \n\n\t2.Search By Book's ID";
+    cout << "\n\n\t1.Search By Book Name \n\n\t2.Search By Book's ID";
     cout << "\n\n\n\t\tEnter your choice: ";
     cin >> i;
     fflush(stdin);

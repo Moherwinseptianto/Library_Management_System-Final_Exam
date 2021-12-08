@@ -1,0 +1,117 @@
+object MyLoginForm: TMyLoginForm
+  Left = 0
+  Top = 0
+  BorderIcons = []
+  Caption = 'Login'
+  ClientHeight = 223
+  ClientWidth = 395
+  Fill.Color = claSkyblue
+  Fill.Kind = Solid
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object loginButton: TButton
+    Position.X = 144.000000000000000000
+    Position.Y = 176.000000000000000000
+    Size.Width = 97.000000000000000000
+    Size.Height = 33.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Text = 'Login'
+    OnClick = loginButtonClick
+  end
+  object id_loginEdit: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 3
+    Position.X = 144.000000000000000000
+    Position.Y = 40.000000000000000000
+    Size.Width = 185.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    object ClearEditButton1: TClearEditButton
+      CanFocus = False
+      Cursor = crArrow
+      Size.Width = 28.000000000000000000
+      Size.Height = 18.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+    end
+  end
+  object id_loginLabel: TLabel
+    Position.X = 24.000000000000000000
+    Position.Y = 40.000000000000000000
+    Size.Width = 89.000000000000000000
+    Size.Height = 17.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Username'
+    TabOrder = 4
+  end
+  object pass_loginEdit: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 1
+    Password = True
+    Position.X = 144.000000000000000000
+    Position.Y = 80.000000000000000000
+    Size.Width = 185.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    object ClearEditButton2: TClearEditButton
+      CanFocus = False
+      Cursor = crArrow
+      Size.Width = 28.000000000000000000
+      Size.Height = 18.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+    end
+  end
+  object pass_loginLabel: TLabel
+    Position.X = 24.000000000000000000
+    Position.Y = 80.000000000000000000
+    Size.Width = 89.000000000000000000
+    Size.Height = 17.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Password'
+    TabOrder = 2
+  end
+  object notifLabel: TLabel
+    Position.X = 8.000000000000000000
+    Position.Y = 120.000000000000000000
+    Size.Width = 121.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+    Text = ' '
+    TabOrder = 5
+  end
+  object BackNavi: TButton
+    Position.X = 8.000000000000000000
+    Position.Y = 8.000000000000000000
+    TabOrder = 6
+    Text = 'Back'
+    OnClick = BackNaviClick
+  end
+  object Switch1: TSwitch
+    IsChecked = False
+    Position.X = 192.000000000000000000
+    Position.Y = 112.000000000000000000
+    TabOrder = 7
+  end
+  object Label1: TLabel
+    Position.X = 144.000000000000000000
+    Position.Y = 112.000000000000000000
+    Size.Width = 49.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Student'
+    TabOrder = 9
+  end
+  object Label2: TLabel
+    Position.X = 272.000000000000000000
+    Position.Y = 112.000000000000000000
+    Size.Width = 49.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Librarian'
+    TabOrder = 8
+  end
+end

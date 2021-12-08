@@ -1,0 +1,60 @@
+object MyMainForm: TMyMainForm
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu, biMinimize]
+  Caption = 'Library Management System'
+  ClientHeight = 289
+  ClientWidth = 372
+  Fill.Color = claPapayawhip
+  Fill.Kind = Solid
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object loginNavButton: TButton
+    Position.X = 32.000000000000000000
+    Position.Y = 104.000000000000000000
+    Size.Width = 121.000000000000000000
+    Size.Height = 41.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = 'Login'
+    OnClick = loginNavButtonClick
+  end
+  object registrationNavButton: TButton
+    Position.X = 208.000000000000000000
+    Position.Y = 104.000000000000000000
+    Size.Width = 121.000000000000000000
+    Size.Height = 41.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Text = 'Register'
+    OnClick = registrationNavButtonClick
+  end
+  object BitmapAnimation1: TBitmapAnimation
+    Duration = 0.200000002980232200
+    PropertyName = 'Fill.Bitmap.Bitmap'
+  end
+  object ColorAnimation1: TColorAnimation
+    Duration = 0.200000002980232200
+    PropertyName = 'Fill.Color'
+    StartValue = claWhite
+    StopValue = claWhite
+  end
+  object Welcome: TLabel
+    StyledSettings = [FontColor]
+    Position.X = 80.000000000000000000
+    Position.Y = 16.000000000000000000
+    Size.Width = 217.000000000000000000
+    Size.Height = 57.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Family = 'Arial'
+    TextSettings.Font.Size = 15.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    TextSettings.HorzAlign = Center
+    TextSettings.VertAlign = Leading
+    TextSettings.Trimming = Word
+    Text = 'Welcome to Library Management  System'
+    TabOrder = 2
+  end
+end
